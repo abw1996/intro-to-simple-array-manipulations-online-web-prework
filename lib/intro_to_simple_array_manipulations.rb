@@ -21,3 +21,4 @@ def using_concat(place, thang)
 end
 def using_insert(place, thang)
   place.insert(4, thang)
+end
