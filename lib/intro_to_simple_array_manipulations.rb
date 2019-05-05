@@ -25,3 +25,9 @@ end
 def using_uniq(place)
   place.uniq 
 end
+def using_flatten(place)
+  place.flatten 
+end 
+def using_delete(place, thang)
+  place.delete(thang)
+end 
