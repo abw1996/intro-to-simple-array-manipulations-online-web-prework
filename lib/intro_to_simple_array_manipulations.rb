@@ -22,3 +22,6 @@ end
 def using_insert(place, thang)
   place.insert(4, thang)
 end
+def using_uniq(place)
+  place.uniq 
+end
