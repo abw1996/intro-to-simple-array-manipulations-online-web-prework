@@ -32,5 +32,5 @@ def using_delete(place, thang)
   place.delete(thang)
 end 
 def using_delete_at(place, num)
-  place.delete(num)
+  place.delete_at(num)
 end
